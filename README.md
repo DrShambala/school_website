@@ -1,3 +1,3 @@
 # school_website
-this is my git repository
+this is my git repository <br>
 auther: adarsh 
